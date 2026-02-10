@@ -2,9 +2,12 @@
 layout: default
 title: Articles
 nav_order: 3
-has_children: true
 ---
 
 # Articles
 
 Browse all articles below.
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
