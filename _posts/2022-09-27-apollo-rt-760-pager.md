@@ -59,9 +59,9 @@ You should now be able to modify the address of the pager
 **Update: 28th September 2022**
 After doing some more research into these models, I managed to find a complete guide to programming these devices. I've stored down these PDFs for future use.
 
-[RT760B 2013 Programming](https://storage.googleapis.com/rexchoppers-website-assets/pagers/RT760B-2013-programming.pdf)
+[RT760B 2013 Programming](/assets/pagers/RT760B-2013-programming.pdf)
 
-[VP4 Pager Programming](https://storage.googleapis.com/rexchoppers-website-assets/pagers/vp4-pager-guide.pdf)
+[VP4 Pager Programming](/assets/pagers/vp4-pager-guide.pdf)
 
 
 I'm still trying to find a way to program this specific device using a serial interface but cannot find anything so far.
@@ -82,16 +82,16 @@ Most of the information on setting time etc... Can be found in the instruction b
 
 **Home screen**
 
-![Home screen](https://storage.googleapis.com/rexchoppers-website-assets/apollo-rt-760-pager-home-screen.jpeg "Home screen")
+![Home screen](/assets/apollo-rt-760-pager-home-screen.jpeg "Home screen")
 
 **Options screen**
 
-![Programming: Page 1](https://storage.googleapis.com/rexchoppers-website-assets/apollo-rt-760-pager-options-screen.jpeg.jpeg "Options screen")
+![Programming: Page 1](/assets/apollo-rt-760-pager-options-screen.jpeg.jpeg "Options screen")
 
 **Password screen**
 
-![Password screen](https://storage.googleapis.com/rexchoppers-website-assets/apollo-rt-760-pager-password-screen.jpeg "Password screen")
+![Password screen](/assets/apollo-rt-760-pager-password-screen.jpeg "Password screen")
 
 **Configuration screen**
 
-![Configuration screen](https://storage.googleapis.com/rexchoppers-website-assets/apollo-rt-760-pager-configuration-screen.jpeg "Configuration screen")
+![Configuration screen](/assets/apollo-rt-760-pager-configuration-screen.jpeg "Configuration screen")
