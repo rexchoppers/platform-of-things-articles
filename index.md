@@ -30,6 +30,12 @@ I'm currently a Senior Full-Stack Developer @ LocalStack
 **Infrastructure/DevOps:** Kubernetes, Docker, Terraform, NGINX, GitHub Actions, GitLab CI
 
 
+## Education
+- **BSc Computing + IT**
+    - The Open University
+    - Expected: 2027
+
+
 ## Certifications
 - AWS Certified Developer – Associate
     - Issued by: Amazon Web Services Training and Certification
