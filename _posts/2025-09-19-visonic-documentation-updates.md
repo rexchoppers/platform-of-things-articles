@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Visonic Documentation Updates"
+category: Code/Tech
 ---
 
 # Overview

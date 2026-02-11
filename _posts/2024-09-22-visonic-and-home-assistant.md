@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Visonic & Home Assistant"
+category: Projects
 ---
 
 # Overview

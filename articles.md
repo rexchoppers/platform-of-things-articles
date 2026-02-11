@@ -8,6 +8,22 @@ nav_order: 2
 
 Browse all articles below.
 
-{% for post in site.posts %}
+## Projects
+{% for post in site.posts %}{% if post.category == "Projects" %}
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+{% endif %}{% endfor %}
+
+## Code/Tech
+{% for post in site.posts %}{% if post.category == "Code/Tech" %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endif %}{% endfor %}
+
+## Tutorials and Reviews
+{% for post in site.posts %}{% if post.category == "Tutorials and Reviews" %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endif %}{% endfor %}
+
+## Personal
+{% for post in site.posts %}{% if post.category == "Personal" %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endif %}{% endfor %}

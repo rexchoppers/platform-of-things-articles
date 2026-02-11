@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Interfacing with the Visonic Powermaster GTX"
+category: Tutorials and Reviews
 ---
 
 # Overview

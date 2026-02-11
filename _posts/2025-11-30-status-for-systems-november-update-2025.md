@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Status For Systems - November Update (2025)"
+category: Projects
 ---
 
 # Overview

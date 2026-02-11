@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Programming Software For The Symbol MC70"
+category: Code/Tech
 ---
 
 # Background

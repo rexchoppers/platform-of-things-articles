@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Text To Morse Project"
+category: Projects
 ---
 
 # Background

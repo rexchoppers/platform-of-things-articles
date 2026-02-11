@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "EB Platform Branch Update Tool"
+category: Projects
 ---
 
 # Overview

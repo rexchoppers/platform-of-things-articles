@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "discovery.onl Contributions"
+category: Projects
 ---
 
 * TOC

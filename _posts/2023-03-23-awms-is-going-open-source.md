@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AWMS is going open source"
+category: Projects
 ---
 
 # Background

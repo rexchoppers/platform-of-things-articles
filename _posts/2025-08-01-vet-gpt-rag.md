@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "VetGPT - RAG"
+category: Projects
 ---
 
 * TOC

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AWMS Update (June 2023)"
+category: Projects
 ---
 
 It's going well. After a small learning curve with Keycloak and deciding on a decent project structure, it's going well.

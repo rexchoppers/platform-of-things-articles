@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "K8s Secret + Deployment Generator"
+category: Projects
 ---
 
 # Background

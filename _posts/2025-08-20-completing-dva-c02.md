@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Completing DVA-C02"
+category: Personal
 ---
 
 * TOC

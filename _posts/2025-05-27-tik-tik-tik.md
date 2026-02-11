@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tik Tik Tik"
+category: Projects
 ---
 
 * TOC

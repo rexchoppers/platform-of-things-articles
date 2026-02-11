@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Status For Systems"
+category: Projects
 ---
 
 # Background

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Grafana Let Me In Project"
+category: Projects
 ---
 
 # Background

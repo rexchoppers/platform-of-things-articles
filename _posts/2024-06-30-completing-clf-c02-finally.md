@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Completing CLF-C02 (Finally)"
+category: Personal
 ---
 
 # Overview

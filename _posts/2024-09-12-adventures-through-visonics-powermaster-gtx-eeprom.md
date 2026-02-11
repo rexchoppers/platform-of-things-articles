@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Adventures Through Visonic's Powermaster GTX EEPROM"
+category: Code/Tech
 ---
 
 # Overview

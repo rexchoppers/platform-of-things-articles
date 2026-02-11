@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Faster OpenFOAM Processing with Google Cloud"
+category: Code/Tech
 ---
 
 # Overview

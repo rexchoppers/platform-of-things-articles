@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Completing AIF-C01"
+category: Personal
 ---
 
 * TOC

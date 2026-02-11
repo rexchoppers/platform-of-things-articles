@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Medial Patellofemoral Ligament (MPFL) Reconstruction Journey"
+category: Personal
 toc: true
 
 coronal-lt-pd-spair: 1kVMgmAQKWNI5EmSeEF4NbhUtVGFMYU62/preview

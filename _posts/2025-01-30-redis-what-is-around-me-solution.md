@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Redis - 'What is around me?' GeoSpatial Solution"
+category: Code/Tech
 ---
 
 # Overview

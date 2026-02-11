@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "RFA-800WP Pager Watch"
+category: Tutorials and Reviews
 ---
 
 # Background
